@@ -1,0 +1,11 @@
+{
+  "theme": "cozy gothic",
+  "whiskerly_enabled": true,
+  "monthly_digest": true,
+  "notifications": {
+    "new_books": true,
+    "series_completion": true,
+    "digest_summary": true
+  },
+  "mood": "whimsical"
+}

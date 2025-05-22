@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2025-04-12T19:39:39.306602",
+    "user_input": "set mood cozy",
+    "response": "\ud83e\udde0 Mood set to 'cozy'!"
+  },
+  {
+    "timestamp": "2025-04-12T19:39:42.877720",
+    "user_input": "hello",
+    "response": "\ud83c\udf19 Good evening!"
+  },
+  {
+    "timestamp": "2025-04-12T19:39:54.908331",
+    "user_input": "set mood dramatic",
+    "response": "\ud83e\udde0 Mood set to 'dramatic'!"
+  },
+  {
+    "timestamp": "2025-04-12T19:39:59.648713",
+    "user_input": "hello",
+    "response": "\ud83c\udf19 Good evening!"
+  },
+  {
+    "timestamp": "2025-04-12T19:40:10.181377",
+    "user_input": "set mood whimsical",
+    "response": "\ud83e\udde0 Mood set to 'whimsical'!"
+  },
+  {
+    "timestamp": "2025-04-12T19:40:20.300560",
+    "user_input": "hello",
+    "response": "\ud83c\udf19 Good evening!"
+  },
+  {
+    "timestamp": "2025-04-12T19:55:48.851485",
+    "user_input": "what do you remember?",
+    "response": "\ud83c\udf19 Good evening!\n\n\u2728 The stars are whispering... read something weird. \u2728"
+  },
+  {
+    "timestamp": "2025-04-12T19:56:01.374198",
+    "user_input": "clear memory",
+    "response": "\ud83c\udf19 Good evening!\n\n\u2728 The stars are whispering... read something weird. \u2728"
+  },
+  {
+    "timestamp": "2025-04-12T19:59:19.546039",
+    "user_input": "what do you remember?",
+    "response": "\ud83e\udde0 Here's what I remember most recently:\n\n1. Where was I in Cradle? \u2192 \ud83e\udd14 I don\u2019t have progress saved for 'In Cradle'."
+  },
+  {
+    "timestamp": "2025-04-12T19:59:30.219768",
+    "user_input": "what do you remember?",
+    "response": "\ud83e\udde0 Here's what I remember most recently:\n\n1. Where was I in Cradle? \u2192 \ud83e\udd14 I don\u2019t have progress saved for 'In Cradle'."
+  }
+]
