@@ -1,0 +1,26 @@
+# Node (frontend) stuff
+node_modules/
+dist/
+.env
+.cache/
+*.log
+
+# Python stuff
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS X junk
+.DS_Store
+
+# VSCode/IDE settings (optional)
+.vscode/
+.idea/
+
+# Build files & lockfiles (optional but safe)
+package-lock.json
+
+# Compiled frontend
+public/
+
